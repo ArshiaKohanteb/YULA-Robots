@@ -1,9 +1,3 @@
-As Kanye West said:
-
-> We're living the future so
-> the present is our past.
-
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ArshiaKo/YULA-Robots/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
