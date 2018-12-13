@@ -237,12 +237,8 @@
         });
 
     };
-	
-	var iframe = document.getElementById("iframe");
-	var div = document.getElementById("stats-switcher-wrapper");
-	div.innerHTML = iframe.contentWindow.document.getElementById("stats-switcher-wrapper").innerHTML;
 
-	
+
    /* Initialize
     * ------------------------------------------------------ */
     (function clInit() {
