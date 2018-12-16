@@ -2188,10 +2188,10 @@ body.menu-is-open {
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: #FFFF01;
+  background-color: white;
   
   filter: brightness(.8);
-	background-image: url(../images/icons/icon-play.svg);
+	background-image: url(../images/icons/icon-play1.svg);
 }
 
 /* ------------------------------------------------------------------- 
