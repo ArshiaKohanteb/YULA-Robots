@@ -2159,7 +2159,7 @@ body.menu-is-open {
   height: 9rem;
   width: 9rem;
   border-radius: 50%;
-  background-color: orangered;
+  background-color: #ffcc00;
   background-image: url(../images/icons/icon-play.svg);
   background-repeat: no-repeat;
   background-position: 55% center;
@@ -2175,7 +2175,7 @@ body.menu-is-open {
   font-weight: 600;
   font-size: 1.3rem;
   line-height: 1;
-  color: #9c9c9c;
+  color: #ffcc00;
   text-transform: uppercase;
   letter-spacing: .5rem;
   -webkit-transition: color 0.3s ease-in-out;
@@ -2185,10 +2185,11 @@ body.menu-is-open {
 
 .home-content__video .video-link:hover .video-text {
   color: #FFFF01;
+  
 }
 
 .home-content__video .video-link:hover .video-icon {
-  background-color: white;
+  background-color: black;
   
   filter: brightness(.8);
 	background-image: url(../images/icons/icon-play1.svg);
