@@ -34,7 +34,7 @@
 @import url("micons/micons.css");
 @import url("font-awesome/css/fontawesome-all.css");
 @import url("font-awesome/css/fontawesome-all.css");
-@import url("https://use.typekit.net/soi6rap.css");
+
 
 
 /* ===================================================================
@@ -44,7 +44,7 @@
  *
  * ------------------------------------------------------------------- */
 html {
-  font-family: sans-serif;
+  font-family: "Futura PT Medium";
   line-height: 1.15;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
