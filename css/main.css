@@ -2168,6 +2168,20 @@ body.menu-is-open {
   transition: background-color 0.3s ease-in-out;
 }
 
+.clix-icon {
+  display: inline-block;
+  height: 9rem;
+  width: 9rem;
+  border-radius: 50%;
+  background-color: #ffcc00;
+  background-image: url(../images/icons/icon-clix.svg);
+  background-repeat: no-repeat;
+  background-position: 55% center;
+  background-size: 36px 40px;
+  -webkit-transition: background-color 0.3s ease-in-out;
+  transition: background-color 0.3s ease-in-out;
+}
+
 .home-content__video .video-text {
   display: inline-block;
   text-align: center;
