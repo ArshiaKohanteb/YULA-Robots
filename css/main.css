@@ -2105,7 +2105,7 @@ body.menu-is-open {
 .home-content {
   display: table-cell;
   vertical-align: middle;
-  padding-top: 6.6rem;
+  padding-top: 1rem;
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -2118,7 +2118,7 @@ body.menu-is-open {
   font-size: 18rem;
   line-height: 1;
   letter-spacing: -.02em;
-  color: #ffcc00;
+  color: #f3b808;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -3408,6 +3408,7 @@ html.no-csstransitions .home-content__main {
  *
  * ------------------------------------------------------------------- */
 .s-testimonials {
+  color: white;
   padding-top: 16.2rem;
   padding-bottom: 21rem;
   text-align: center;
@@ -3416,6 +3417,13 @@ html.no-csstransitions .home-content__main {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+}
+
+.s-testimonials h1{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  color: #ffffff;
+  text-rendering: optimizeLegibility;
 }
 
 .s-testimonials::before {
